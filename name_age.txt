@@ -1,0 +1,7 @@
+john is 25 years old.
+som is 26 years old.
+sammy is 24 years old.
+bravo is 21 years old.
+ram is 16 years old.
+sohan is 22 years old.
+mohan is 23 years old.

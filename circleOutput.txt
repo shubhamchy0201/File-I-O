@@ -1,0 +1,14 @@
+Radiue is: 25.0
+Area is: 1963.50Circumference is: 157.08
+Radiue is: 2.0
+Area is: 12.57Circumference is: 12.57
+Radiue is: 3.0
+Area is: 28.27Circumference is: 18.85
+Radiue is: 5.4
+Area is: 91.61Circumference is: 33.93
+Radiue is: 8.5
+Area is: 226.98Circumference is: 53.41
+Radiue is: 6.7
+Area is: 141.03Circumference is: 42.10
+Radiue is: 8.7
+Area is: 237.79Circumference is: 54.66
